@@ -1,0 +1,2 @@
+
+Era da Informação, nunca foi chamada de Era do Conhecimento. Informação não se transforma diretamente em conhecimento. Precisa primeiro ser processada: acessada, absorvida, compreendida, integrada e retida.

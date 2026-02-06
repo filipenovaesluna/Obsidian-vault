@@ -1,0 +1,4 @@
+
+
+**Case de uma onda de saques em um Banco em Cingapura:** 
+Há alguns anos atrás, sem nenhum motivo válido, os clientes de um banco local começaram a sacar seu dinheiro num frenesi. A corrida a esse banco respeitado permaneceu um mistério por um bom tempo, quando pesquisadores descobriram sua causa peculiar ao entrevistarem os correntistas: uma greve de ônibus inesperada havia criado uma multidão anormal no ponto de ônibus em frente ao banco naquele dia. Confundindo o ajuntamento com uma aglomeração de clientes querendo retirar seus fundos do banco em falência, as pessoas que passavam por ali ficaram em pânico e entraram na fila a fim de sacar seus depósitos, o que levou mais gente a fazer o mesmo. Logo após abrir as portas, o banco foi forçado a fechar para evitar um colapso total ("News", 1988).#influência #comportamentosocial

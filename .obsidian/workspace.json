@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "33c0c6d778a37386",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c212255a75eeef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c24296bdb362c678",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "69f55bc2b982e4c1",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Sem título 1.base",
+                "viewName": "Tabela"
+              },
+              "icon": "lucide-table",
+              "title": "Sem título 1"
+            }
+          },
+          {
+            "id": "d0e7b58c4898d7cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.9.14"
+            }
+          },
+          {
+            "id": "72aa8cec52d203e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.10.3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9425b2d71999a0c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e16aea7ddf2e0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6026c7d2a4d557aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "26a5a1dd434f50de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#disciplina",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c675739e1307a6de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "380ece2a9965fd0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "04b3cde735fea435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dfec4a2c3c3474d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FRASES - REFLEXÕES/Frases/Frases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Frases"
+            }
+          },
+          {
+            "id": "db5341ae6b054e27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FRASES - REFLEXÕES/Frases/Frases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Frases"
+            }
+          },
+          {
+            "id": "0dcfb226e265254f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b764fcc6d79f0fa1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "2c511032dcf0be76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FRASES - REFLEXÕES/Frases/Frases.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Frases"
+            }
+          },
+          {
+            "id": "56daea4474b66fe8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "54425cc2b18d1450",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Criar um novo quadro": false
+    }
+  },
+  "active": "c24296bdb362c678",
+  "lastOpenFiles": [
+    "CASES/Cases de Disciplina/Cases de Disciplina.md",
+    "FRASES - REFLEXÕES/Reflexões/Disciplina/Disciplina.md",
+    "MENTALIDADE E NEUROCIÊCIA/Disciplina.md",
+    "2026-01-07.md",
+    "Sem título.canvas",
+    "Kanban sem título.md",
+    "Sem título 3.base",
+    "Sem título 2.base",
+    "CASES/Cases de  Autoridade/A autoridade inquestionável.md",
+    "CASES/Cases - Tudo Se Explica/Case Tigre Atacou o Mágico, mas isso foi o que o Salvou.md",
+    "CASES/Cases de  Autoridade/Cases de  Autoridade.md",
+    "Sem título 1.base",
+    "Sem título.base",
+    "GESTÃO DE NEGÓCIOS/Produtividade  Empresarial/Método Kaizen.md",
+    "FRASES - REFLEXÕES/Reflexões/Autoresponsabilidade/Gestão de Negócios.md",
+    "GESTÃO DE NEGÓCIOS/Gestão de Processo/Automação de  Processo.md",
+    "Mentalidade.md",
+    "GESTÃO DE NEGÓCIOS/Gestão de Risco/Processo de Gestão de Rísco.md",
+    "GESTÃO DE NEGÓCIOS/Gestão de Processo/Estrutura da Gestão de Processos.md",
+    "GESTÃO DE NEGÓCIOS/Ferramentas de Gestão/Análise SWOT.md",
+    "GESTÃO DE NEGÓCIOS/Ferramentas de Gestão/Matriz de Eisenhower - Gestão de Tempo.md",
+    "VENDAS ON LINE/Tráfego Pago/Conceito Geral de Tráfego Pago/Estrutura Geral.md",
+    "VENDAS ON LINE/E-commerce/Estrututa de E-commerce.md",
+    "RELIGIÃO E ESPIRITUALIDADE/Evangelhistas/São Paulo de Tarso.md",
+    "PRINCÍPIOS/Princípios Científicos",
+    "PRINCÍPIOS/Princípios Filosóficos/Pricípio - Navalha de Ockham.md",
+    "PRINCÍPIOS/Princípios Cristãos",
+    "PRINCÍPIOS/PRICÍ.md",
+    "PRINCÍPIOS/Princípios Filosóficos",
+    "PRINCÍPIOS",
+    "GESTÃO DE NEGÓCIOS/Marketing/Branding/Processo de Construção.md",
+    "GESTÃO DE NEGÓCIOS/IVP - Indice de Valor Pessoal/Marketing de Pessoal/Sem título.md",
+    "GESTÃO DE NEGÓCIOS/Gestão de Risco.md",
+    "GESTÃO DE NEGÓCIOS/Gestão de Risco",
+    "VENDAS/Processo Hand/Processo Hand.md",
+    "SISTEMAS E FERRAMENTAS/Commerce.md",
+    "RELIGIÃO E ESPIRITUALIDADE/Evangelhistas",
+    "Sem título 1.canvas",
+    "Pasted image 20250305104933.png"
+  ]
+}

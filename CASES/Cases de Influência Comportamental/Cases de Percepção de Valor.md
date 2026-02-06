@@ -1,0 +1,3 @@
+
+**Experimento Sobre a Percepção de Valor**: 
+Um estudo recente de tomografia cerebral ajuda a explicar por quê. Ao provarem o mesmo vinho, os participantes não apenas disseram que estavam sentindo mais prazer quando pensavam que sua bebida custava 45 dólares, em vez de 5 dólares, como os centros cerebrais associados ao prazer também foram mais ativados pela experiência (Plassmann et al., 2008). #percepçãodevalor 

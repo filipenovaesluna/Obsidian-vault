@@ -1,0 +1,2 @@
+
+Objetivos excepcionais necessitam de decisões excepcionais que demandam restrições excepcionais. Isso pode ser entendido como disciplina. #disciplina [[MENTALIDADE E NEUROCIÊCIA/Disciplina]] [[Cases de Disciplina]] [[Estrutura da Gestão de Processos]]
