@@ -4,53 +4,50 @@ data: 2026-07-29
 cliente: VR
 granola_id: 16a9a0b1-9971-4f06-8ff8-f2ec3b031c56
 link: https://app.granola.ai/meetings/16a9a0b1-9971-4f06-8ff8-f2ec3b031c56
-participantes: ["FILIPE NOVAES LUNA", "Ana Carolina de Oliveira", "DILERMANDO RIVAS PAES CERVINO NETO"]
-temas: ["VR Maceió", "Casa Vieira", "Grupo Metropolitana", "Grupo Monto", "Sindicato obras", "VT Maceió"]
+participantes: ["FILIPE NOVAES LUNA &lt;filipenovaesluna@gmail.com&gt;", "Ana Carolina de Oliveira &lt;ana.oliveira@vr.com.br&gt;", "DILERMANDO RIVAS PAES CERVINO NETO &lt;dilermando.neto@vr.com.br&gt;"]
+temas: ["VR Maceió", "Casa Vieira", "Grupo Metropolitana", "Sindicato obras", "Vale-transporte"]
 ---
 
 # Reunião - Canal Erivaldo Gomes ( Felipe - Maceió)
 
 **Data:** 29/07/2026, 16:00  
 **Cliente/Tema:** VR  
-**Participantes:** FILIPE NOVAES LUNA, Ana Carolina de Oliveira, DILERMANDO RIVAS PAES CERVINO NETO
+**Participantes:** FILIPE NOVAES LUNA &lt;filipenovaesluna@gmail.com&gt;, Ana Carolina de Oliveira &lt;ana.oliveira@vr.com.br&gt;, DILERMANDO RIVAS PAES CERVINO NETO &lt;dilermando.neto@vr.com.br&gt;
 
 ## Resumo
-Alinhamento comercial para converter contatos de Filipe em negócios na região de Maceió, com Ana como ponto focal da VR. Foram priorizadas contas como Casa Vieira, Grupo Metropolitana e Monto, além da necessidade de estruturar apoio operacional local e agenda de visita.
+Reunião para acelerar oportunidades comerciais em Alagoas/Maceió com VR, aproveitando a rede de Filipe. Foram priorizadas contas como Casa Vieira, Grupo Metropolitana e outras, além da necessidade de estruturar apoio local para propostas e visitas.
 
 ## Contexto
-Dilermando retomou contato com Filipe após anos de relacionamento no período Sodexo. Ana Carolina foi definida como principal interface da VR em Maceió. A reunião focou em acelerar oportunidades na região, com flexibilidade de condições comerciais e apoio para propostas e operações locais.
+Dilermando e Ana alinharam a atuação da VR em Maceió, com foco em converter relações de Filipe em negócios. Houve discussão sobre contas prioritárias, possível flexibilidade comercial e a necessidade de um apoio local para propostas, sistemas e operação.
 
 ## Decisoes
-- Ana Carolina será o ponto focal da VR para Maceió.
-- Filipe deverá indicar uma pessoa para apoiar propostas e operação local.
-- A visita a Maceió será organizada por rota eficiente, evitando fim/início de mês.
-- Casa Vieira será tratada com prioridade devido ao risco de perda para concorrente.
-- Sindicato de obras e conservação será levado para a agenda da Ana.
+- Ana será a principal ponto de contato da VR para a região de Maceió
+- Filipe indicará uma pessoa para apoiar propostas, uploads no sistema e operação local
+- A visita a Maceió será estruturada por geografia e evitando fim/início de mês
+- Casa Vieira será tratada como conta prioritária pela relação direta de Filipe
+- O contato de sindicato de obras e conservação será incluído na agenda da Ana
 
 ## Pendencias
-- [ ] Indicar pessoa para gerenciar propostas, sistema e suporte operacional em Maceió @Filipe Novaes Luna
-- [ ] Confirmar se Aldo realizou algum pedido ou solicitação de cartão @Ana Carolina de Oliveira
-- [ ] Estruturar agenda da visita a Maceió com roteiro geográfico @Ana Carolina de Oliveira
-- [ ] Levar contato do Sindicato de obras e conservação para a Ana @Filipe Novaes Luna
-- [ ] Acompanhar oportunidade de Casa Vieira via contato com George Jones @Filipe Novaes Luna
+- [ ] Indicar uma pessoa para propostas e operação em Maceió @Filipe
+- [ ] Confirmar se Aldo fez algum pedido ou solicitação de cartão @Ana Carolina
+- [ ] Estruturar agenda da visita a Maceió @Ana Carolina
+- [ ] Acionar Casa Vieira com o contato do George Jones @Filipe
+- [ ] Inserir o contato do sindicato na agenda da Ana @Filipe
 
 ## Proximos passos
-- Filipe enviar indicação do profissional de apoio.
-- Ana iniciar onboarding do indicado via Teams quando confirmado.
-- Filipe acionar contato de George Jones para Casa Vieira.
-- Ana verificar status de Aldo e retorno ao grupo.
-- Planejar visita a Maceió com priorização de contas.
-- Filipe conectar Ana ao contato do sindicato.
+- Filipe definir o nome do apoio local e avisar Dilermando
+- Ana checar o status de Aldo e montar a agenda da visita
+- Filipe reforçar a aproximação com Casa Vieira e com o sindicato
+- Dilermando avaliar participação na visita conforme agenda
 
 ## Riscos e atencao
-- Casa Vieira pode ser fechada por concorrente antes da atuação da VR.
-- Restrições de fim e início de mês podem dificultar visitas e tratativas.
-- Conta Paulo segue complexa e de difícil acesso.
-- Falhas no portal/sistema podem afetar a oferta de ponto eletrônico.
-- Dependência de indicação de recurso local para avançar com volume de propostas.
+- Concorrente pode fechar Casa Vieira antes da abordagem
+- Problemas no portal/sistema podem dificultar oportunidades como ponto eletrônico
+- Baixa disponibilidade de RH no fim e início do mês pode atrasar visitas e avanços
+- Conta Paulo é complexa e pode demandar esforço sem retorno imediato
 
 ## Tags
-#vr-maceió #casa-vieira #grupo-metropolitana #grupo-monto #sindicato-obras #vt-maceió
+#vr-maceió #casa-vieira #grupo-metropolitana #sindicato-obras #vale-transporte
 
 ## Resumo original do Granola
 ### Context and Relationship
@@ -103,9 +100,9 @@ Dilermando retomou contato com Filipe após anos de relacionamento no período S
 
 - **Engage Casa Vieira via George Jones contact** (Filipe)
 
-  Account is at risk of being closed by a competitor; Filipe's personal relationship is the key lever.
+  Account is at risk of being closed by a competitor; Filipe&apos;s personal relationship is the key lever.
 
-- **Add Sindicato de obras e conservação to Ana's agenda** (Filipe)
+- **Add Sindicato de obras e conservação to Ana&apos;s agenda** (Filipe)
 
   Connect Ana with the entrepreneur who has access to the new syndicate president.
 
