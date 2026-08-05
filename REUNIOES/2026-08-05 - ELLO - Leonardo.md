@@ -1,52 +1,55 @@
 ---
 tipo: reuniao
 data: 2026-08-05
-cliente: ELLO
+cliente: Leonardo
 granola_id: 5aba42ef-4d0e-4870-88ca-8757fab7f08e
 link: https://app.granola.ai/meetings/5aba42ef-4d0e-4870-88ca-8757fab7f08e
 participantes: ["FILIPE NOVAES LUNA &lt;filipenovaesluna@gmail.com&gt;"]
-temas: ["ELLO", "serviço", "cross-sell", "comercial", "board shorts"]
+temas: ["ELLO", "serviço", "cross-sell", "prospecção", "concorrência"]
 ---
 
 # ELLO - Leonardo
 
 **Data:** 05/08/2026, 11:40  
-**Cliente/Tema:** ELLO  
+**Cliente/Tema:** Leonardo  
 **Participantes:** FILIPE NOVAES LUNA &lt;filipenovaesluna@gmail.com&gt;
 
 ## Resumo
-Foram discutidas as 3 frentes de receita da ELLO, com foco em serviço como maior margem e oportunidade de cross-sell. Concluiu-se que Léo deve priorizar estratégia comercial e não a venda técnica de serviço, reforçando presença na rua e equilíbrio entre perfil empreendedor e empresarial.
+Foram discutidas as frentes de receita da ELLO, com foco na retomada do serviço, oportunidade de cross-sell e necessidade de um perfil comercial dedicado para prospecção. Também houve reflexão sobre o equilíbrio entre visão empreendedora e gestão empresarial.
 
 ## Contexto
-ELLO faturando em média ~R$100k/mês, com 70% em board shorts, 20% em serviço e 10% em importados. Serviço foi interrompido por problema de máquina, com retomada prevista. Há oportunidade de ampliar vendas de serviço e produtos via base atual e atuação comercial dedicada.
+ELLO tem cerca de 70% do faturamento em board shorts, 20% em serviço e 10% em importado, com média de R$100k/mês e Simples Nacional. O serviço foi interrompido por problema de máquina e há previsão de retomada. A reunião destacou margem do serviço, potencial de venda para base atual e importância de mapear mercado e concorrentes.
 
 ## Decisoes
-- Priorizar a retomada do serviço quando a máquina estiver operacional.
-- Não colocar Léo como vendedor principal de serviço técnico.
-- Buscar perfil comercial dedicado para mapear mercado e abrir oportunidades.
-- Aumentar a presença de rua para coletar informações de concorrentes.
-- Usar cross-sell para vender feminino e outros itens na base atual.
+- Priorizar a retomada do serviço após a solução do problema de máquina.
+- Não colocar Léo como vendedor técnico de serviço.
+- Buscar um perfil comercial dedicado para atuação em rua e prospecção.
+- Aproveitar a base atual para cross-sell de produtos femininos e outros itens.
+- Usar visitas a concorrentes para coleta de ინფორმაცია de mercado.
 
 ## Pendencias
-- [ ] Retomada do serviço após problema da máquina
-- [ ] Definição e contratação de perfil comercial dedicado
-- [ ] Mapeamento de clientes e abordagem comercial
-- [ ] Coleta de inteligência de concorrentes
+- [ ] Resolver o problema de máquina que parou o serviço
+- [ ] Definir e contratar/selecionar perfil comercial dedicado
+- [ ] Estruturar ferramentas e abordagem de prospecção comercial
+- [ ] Mapear clientes e oportunidades no mercado
+- [ ] Coletar informações sobre concorrentes, como preços e frete
 
 ## Proximos passos
-- Estruturar a função comercial com foco em rua e prospecção.
-- Revisar estratégia de venda do serviço e dos produtos.
-- Acompanhar a normalização da máquina e a retomada do serviço.
-- Explorar cross-sell com a base atual de clientes.
+- Retomar o serviço assim que a máquina estiver operacional.
+- Estruturar a função comercial com foco em prospecção.
+- Definir plano de cross-sell para a base atual.
+- Realizar visitas de inteligência a concorrentes.
+- Acompanhar o equilíbrio entre expansão comercial e controle financeiro.
 
 ## Riscos e atencao
-- Dependência excessiva de Léo na operação e na venda.
+- Dependência de máquina para continuidade do serviço.
 - Concorrência crescente no serviço.
-- Paralisação do serviço por falha de máquina.
-- Desalinhamento entre perfil empreendedor e perfil de gestão.
+- Léo não ter tempo ou perfil para venda técnica.
+- Crescimento desigual entre visão empreendedora e gestão financeira.
+- Perda de oportunidade por falta de estrutura comercial dedicada.
 
 ## Tags
-#ello #serviço #cross-sell #comercial #board-shorts
+#ello #serviço #cross-sell #prospecção #concorrência
 
 ## Resumo original do Granola
 ### Estrutura do Negócio (ELLO)
