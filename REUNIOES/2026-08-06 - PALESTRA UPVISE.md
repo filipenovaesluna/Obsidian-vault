@@ -1,40 +1,41 @@
 ---
 tipo: reuniao
 data: 2026-08-06
-cliente: Filipe Novaes Luna
+cliente: interno
 granola_id: 685420da-b433-4f15-84b2-857a9c7556ce
 link: https://app.granola.ai/meetings/685420da-b433-4f15-84b2-857a9c7556ce
 participantes: ["FILIPE NOVAES LUNA &lt;filipenovaesluna@gmail.com&gt;"]
-temas: ["Bob", "assistente de IA", "agenda por voz", "checklist diário", "release matinal"]
+temas: ["Bob", "assistente de IA", "palestra", "automacao por voz"]
 ---
 
 # PALESTRA UPVISE
 
 **Data:** 06/08/2026, 12:32  
-**Cliente/Tema:** Filipe Novaes Luna  
+**Cliente/Tema:** interno  
 **Participantes:** FILIPE NOVAES LUNA &lt;filipenovaesluna@gmail.com&gt;
 
 ## Resumo
-Palestra sobre o assistente de IA Bob, operado por voz no celular, com demonstração de agendamento, checklist diário, release matinal e consulta de indicadores. O foco foi centralizar tarefas e reduzir atrito operacional, com uso destacado para apoio a TDAH.
+Palestra sobre o assistente de IA pessoal Bob, com demonstração ao vivo de comandos por voz para agenda, checklist diário, release matinal e consulta de indicadores. Destaque para automação sem interação manual e apoio à produtividade.
 
 ## Contexto
-Demonstração ao vivo de um assistente de IA pessoal chamado Bob, com transcrição em tempo real no Granola. Foram mostradas funções de agenda por voz, checklist diário, release de notícias e acesso a indicadores sem entrar em sistemas. Participante: Filipe Novaes Luna.
+Demonstração do Bob durante a palestra, com transcrição em tempo real no Granola. Foi mostrado agendamento por voz no Google Agenda, criação de checklist diário e geração de release matinal com notícias e briefing semanal.
 
 ## Decisoes
-- Avaliar uso do Bob como centralizador de tarefas por voz.
-- Considerar agendamento automático via Google Agenda.
-- Considerar uso de checklist diário e release matinal.
+- Usar comandos por voz para acionar agenda, checklist e consultas.
+- Centralizar informações de rotina em um único assistente de IA.
+- Manter correções de nomes e comandos por voz como parte do fluxo.
 
 ## Pendencias
-- [ ] Não informado
+- [ ] nao informado
+- [ ] nao informado
 
 ## Riscos e atencao
-- Dependência de comandos por voz para execução correta das tarefas.
-- Possíveis erros de reconhecimento/correção de nomes e comandos.
-- Uso de dados de agenda e indicadores exige cuidado com acesso e privacidade.
+- Dependência de comando por voz pode gerar erros de interpretação.
+- Dados de agenda e indicadores exigem integração confiável com sistemas.
+- Uso indevido ou falhas na captura de informações pessoais/empresariais.
 
 ## Tags
-#bob #assistente-de-ia #agenda-por-voz #checklist-diário #release-matinal
+#bob #assistente-de-ia #palestra #automacao-por-voz
 
 ## Resumo original do Granola
 ### Contexto da Palestra
